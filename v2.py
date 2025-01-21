@@ -452,7 +452,7 @@ if st.session_state.consent_given:
                 clear_responses(st.session_state.username)
                 update_submission_status(st.session_state.username)
                 st.session_state.survey_submitted = True
-
+                st.rerun()
                 
 
             else:
