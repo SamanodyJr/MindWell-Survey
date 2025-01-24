@@ -261,7 +261,7 @@ if not st.session_state.consent_given:
         "serve the community but also facilitate the development of applications designed to enhance awareness "
         "of cognitive distortions."
     )
-    st.write("This survey will take less than 10 minutes to complete.")
+    st.write("This survey will take less than 10 minutes to complete.\n The information you provide for the purposes of this research is confidential and the data will be collected, shared, presented, or published anonymously.")
 
     st.radio(
         "By clicking yes, you agree that you have read and understood the information included in this form, "
@@ -377,11 +377,11 @@ if st.session_state.consent_given:
         st.write(thought)
 
         existing_response = st.session_state.responses.get(thought, {})
-        existing_label1 = existing_response.get("label1", "Select a label1")
-        existing_label2 = existing_response.get("label2", "Select a label2 or Same label if no other label")
+        existing_label1 = existing_response.get("label1", "Select the Cognitive Distortion")
+        existing_label2 = existing_response.get("label2", "Select another Cognitive Distortion or None")
 
-        options1 = ["Select a label1"] + distortions_data["Type of Cognitive Distortion"] + ["None"]
-        options2 = ["Select a label2 or Same label if no other label"] + distortions_data["Type of Cognitive Distortion"] + ["None"]
+        options1 = ["Select the Cognitive Distortion"] + distortions_data["Type of Cognitive Distortion"] + ["None"]
+        options2 = ["Select another Cognitive Distortion or None"] + distortions_data["Type of Cognitive Distortion"] + ["None"]
 
         # Attempt to preserve prior selections
         default_index_1 = options1.index(existing_label1) if existing_label1 in options1 else 0
@@ -414,16 +414,16 @@ if st.session_state.consent_given:
             selected_distortion_2
         )
 
-        st.write("You selected label1 :", selected_distortion_1)
-        st.write("You selected label2 :", selected_distortion_2)
+        st.write("Your primary label :", selected_distortion_1)
+        st.write("Your secondary label:", selected_distortion_2)
 
     # ------------- Final Submit Button Logic -------------
     # Only enabled if all thoughts have valid label1 & label2
     is_ready_to_submit = (
         len(st.session_state.user_thoughts) == len(st.session_state.responses) and
         all(
-            (resp.get("label1") not in ["Select a label1"]) and
-            (resp.get("label2") not in ["Select a label2 or Same label if no other label"])
+            (resp.get("label1") not in ["Select another Cognitive Distortion"]) and
+            (resp.get("label2") not in ["Select another Cognitive Distortion or None"])
             for resp in st.session_state.responses.values()
         )
     )
@@ -431,15 +431,15 @@ if st.session_state.consent_given:
     if st.button("Submit Survey", disabled=not is_ready_to_submit):
         if len(st.session_state.user_thoughts) == len(st.session_state.responses):
             all_labeled = all(
-                (resp.get("label1") not in ["Select a label1"]) and
-                (resp.get("label2") not in ["Select a label2 or Same label if no other label"])
+                (resp.get("label1") not in ["Select another Cognitive Distortion"]) and
+                (resp.get("label2") not in ["Select another Cognitive Distortion or None"])
                 for resp in st.session_state.responses.values()
             )
             if all_labeled:
                 # Write final labels out to 'labeled_thoughts.csv'
                 for thought in st.session_state.user_thoughts:
-                    label1 = st.session_state.responses[thought].get("label1", "Select a label1")
-                    label2 = st.session_state.responses[thought].get("label2", "Select a label2 or Same label if no other label")
+                    label1 = st.session_state.responses[thought].get("label1", "Select another Cognitive Distortion")
+                    label2 = st.session_state.responses[thought].get("label2", "Select another Cognitive Distortion or None")
 
                     row_df = pd.DataFrame([{
                         'Thought': thought,
