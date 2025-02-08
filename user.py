@@ -48,7 +48,12 @@ for index, (user1, user2) in enumerate(user_pairs):
     thoughts_for_pair = all_thoughts[start_index:end_index]
 
     # Append the pair and their thoughts to the result list
-    pairs_thoughts.append({'User 1': user1, 'User 2': user2 if user2 else "", 'Thoughts': '|'.join(thoughts_for_pair)})
+    pairs_thoughts.append({
+    'User 1': user1,
+    'User 2': user2 if user2 else "",
+    'Thoughts': '|'.join(str(x) for x in thoughts_for_pair)
+})
+
 
 # Convert the list to a DataFrame for better visualization and processing
 pairs_thoughts_df = pd.DataFrame(pairs_thoughts)
