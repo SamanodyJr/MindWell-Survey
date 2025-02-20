@@ -484,7 +484,7 @@ if st.session_state.consent_given:
                 update_submission_status(st.session_state.username)
 
                 st.session_state.survey_submitted = True
-                st.experimental_rerun()
+                st.rerun()
             else:
                 st.error("Please label all thoughts with both labels before submitting.")
         else:
