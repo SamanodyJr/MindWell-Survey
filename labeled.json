@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "67b7be8256ac4dd9c231e24d",
+        "Thought": "Today was supposed to be the big day\u00e2\u20ac\u201dmy chance to prove I could handle leading the project at work. But after fumbling through my presentation and missing a couple of key points, I feel like I completely failed. I don\u00e2\u20ac\u2122t think anyone took me seriously; maybe I\u00e2\u20ac\u2122m just not cut out for leadership after all. It\u00e2\u20ac\u2122s frustrating because I wanted to show them I had it all together, but now I feel like I\u00e2\u20ac\u2122m back at square one.",
+        "Label1": "Labeling",
+        "Label2": "Fallacy of Fairness"
+    },
+    {
+        "_id": "67b7be8256ac4dd9c231e24e",
+        "Thought": "I spent weeks prepping for this half-marathon, thinking it would be the start of a new chapter for me. But today I had to stop halfway because my knee started hurting, and now it feels like the whole thing was pointless. I can\u00e2\u20ac\u2122t believe I couldn\u00e2\u20ac\u2122t even finish; maybe I was never meant to be a runner. All that effort, and for what? I\u00e2\u20ac\u2122m not sure I\u00e2\u20ac\u2122ll bother trying again",
+        "Label1": "Emotional reasoning",
+        "Label2": "Labeling"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e24f",
+        "Thought": "I finally hosted a dinner party, something I\u00e2\u20ac\u2122ve wanted to do for ages, but it didn\u00e2\u20ac\u2122t go like I planned. The main course was undercooked, and a couple of people barely touched their plates. I feel like such a failure as a host\u00e2\u20ac\u201dif I can\u00e2\u20ac\u2122t even get one evening right, what\u00e2\u20ac\u2122s the point in trying again? I thought this would be a fun way to connect with friends, but now it just feels embarrassing.",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e250",
+        "Thought": "Today was my first day volunteering at the shelter, and honestly, I thought it would feel more rewarding. Instead, I spent most of my time cleaning and doing little tasks that didn\u00e2\u20ac\u2122t seem to matter. I guess I\u00e2\u20ac\u2122m not actually making any real difference here if that\u00e2\u20ac\u2122s all I\u00e2\u20ac\u2122m able to contribute. Maybe this isn\u00e2\u20ac\u2122t worth my time after all if I can\u00e2\u20ac\u2122t have a real impact.",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e251",
+        "Thought": "I finally tried my hand at baking a cake from scratch, something I\u00e2\u20ac\u2122ve always wanted to do. But the cake came out dense and a bit dry, and honestly, it felt like such a waste of time and effort. If I can\u00e2\u20ac\u2122t even bake one cake well, maybe I\u00e2\u20ac\u2122m just not cut out for this at all. I wanted it to turn out perfect, and now I\u00e2\u20ac\u2122m wondering if I should stick to simpler things",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e252",
+        "Thought": "I finally gave a speech at the community event, and I\u00e2\u20ac\u2122d been so nervous for weeks. I stumbled over a few words, and now all I can think about is how it must\u00e2\u20ac\u2122ve looked to everyone. I really thought I\u00e2\u20ac\u2122d be able to speak confidently, but I ended up feeling like a complete mess up there. Maybe I\u00e2\u20ac\u2122m just not meant for public speaking at all\u00e2\u20ac\u201deither I\u00e2\u20ac\u2122m amazing at it, or there\u00e2\u20ac\u2122s no point.",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e253",
+        "Thought": "I\u00e2\u20ac\u2122ve been studying for this certification exam for months, but after today\u00e2\u20ac\u2122s practice test, I\u00e2\u20ac\u2122m feeling hopeless. I missed way more questions than I thought I would, and now I\u00e2\u20ac\u2122m starting to think I\u00e2\u20ac\u2122ll never pass. I wanted to feel like I was on top of it by now, but I can\u00e2\u20ac\u2122t help but feel like I\u00e2\u20ac\u2122m failing completely. Maybe this whole goal was unrealistic from the start",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e254",
+        "Thought": "I tried joining a new hiking group today, hoping it would be a fun way to meet people, but it ended up being so awkward. I didn\u00e2\u20ac\u2122t hit it off with anyone right away, and the whole hike felt uncomfortable. If I can\u00e2\u20ac\u2122t connect with people immediately, maybe I\u00e2\u20ac\u2122m just not cut out for group activities like this. I thought it\u00e2\u20ac\u2122d be easy to make friends, but now it feels pointless to keep trying",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8356ac4dd9c231e255",
+        "Thought": "Today was my first day trying yoga, and honestly, it didn\u00e2\u20ac\u2122t go how I\u00e2\u20ac\u2122d hoped. I couldn\u00e2\u20ac\u2122t keep up with most of the poses, and I felt out of place next to everyone who seemed so natural at it. I thought I\u00e2\u20ac\u2122d feel calm and capable, but instead, I left feeling like I completely failed. Maybe I\u00e2\u20ac\u2122m just not cut out for this kind of thing\u00e2\u20ac\u201deither I get it right from the start, or it\u00e2\u20ac\u2122s not worth it",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b7be8456ac4dd9c231e256",
+        "Thought": "I tried cooking a new recipe tonight, hoping it would be a nice surprise for everyone, but it turned out bland, and nobody seemed that impressed. I thought I could pull it off, but I guess I don\u00e2\u20ac\u2122t have what it takes to make something special. It feels like if I can\u00e2\u20ac\u2122t make a perfect meal, there\u00e2\u20ac\u2122s no point in even trying. I wanted it to be great, but instead, it just feels like I shouldn\u00e2\u20ac\u2122t have bothered.",
+        "Label1": "Emotional reasoning",
+        "Label2": "Overgeneralization"
+    },
+    {
+        "_id": "67b89ef756ac4dd9c231e354",
+        "Thought": "I always give up at the thought of having to 'compete,' for lack of a better way to word it; most especially in the context of relationships. It always plays out like this: I end up liking someone, I make advances, find out other people are interested in them (they don't even have to feel strongly about them), feel like I'll lose anyway (even when I know I have the upper hand), give up and lose interest. I acknowledge that's a negative mindset to have and it will get me nowhere fast (as it already has), but I guess my reasoning is that I'd much rather go elsewhere where I am guaranteed a favorable result. How do I get over it? How do people even end up with these kinds of mindsets? I don't know if it's deep-seated jealousy, insecurity, maybe even trauma(??) or even just an aversion to losing.",
+        "Label1": "Fortune telling (also called catastrophizing)",
+        "Label2": "None"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e355",
+        "Thought": "Him: Never?\n\nMe: No, never.\n\nHim: No flirting, no fooling around, none of that?\n\nMe, dying inside once again: No, nothing.\n\nEDIT: We were talking about my life and when we got to adolescence he appeared shocked that I hadn't started flirting with girls at 14-15. It's been a decade and I don't even flirt today. I made a therapist shocked. Man do I hate myself.",
+        "Label1": "Personalization",
+        "Label2": "Blaming (others or oneself)"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e356",
+        "Thought": "I'll get to a point where people think I'm doing decent enough to tell me.  So I'll keep trying to improve and do harder things in that category, and get stuck on something I can't do.   And then I quit. \n\nFor example, I picked up kick boxing a while ago.  I loved it and made quick strides.  Then I realised my hooks weren't so great and started trying to fix them, and nothing I did worked.  After hours and hours of trying, nothing did anything to improve them, and I started developing a mental block where internally I just kept going 'I can't do this, it's useless, this is impossible'.  And eventually I just gave up the entire thing.\n\nIt's happened with so many things.  Music composition.  Cooking.  I'm not sure what it is and how to get around it, but anytime I try pick up something and get to 'that point', I turn into a defeatist and eventually quit.  \n\nI just would like to know what's going on and how to change it.  I've tried positive self talk and stuff like 'you can do this', all that happens is I feel even more crushed when I can't.",
+        "Label1": "All or Nothing Thinking",
+        "Label2": "Discounting the positive"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e357",
+        "Thought": "It's not going one weekend without having anything to do.  It's going week after week, month after, month, without anything to.  And it's like that for years.  \n\nIt's spending every Saturday and Friday alone, as the hour torturously crawl by.  \n\nI had more to say but I'm so exhausted and tired from boredom I can't even bother to type more",
+        "Label1": "Emotional reasoning",
+        "Label2": "Mental Filter"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e358",
+        "Thought": "I have this really annoying habit that every time I hang out with friends / have talks with people, afterwards i start obsessing over every word that came out of my mouth. 'Maybe i shouldn't have said that' 'Maybe i should have reacted differently'... It's so tiring and it always lasts at least the next day and makes me incredibly anxious. I just want to relax and not feel like I'm a total idiot by just interacting with others. I try to constantly fight it by telling myself i did nothing wrong, but the moment i don't fight it, i get back on the anxiety circle. \n \nCan anyone relate? \n\nAnd if anyone has any helpful tips, that'd be appreciated!",
+        "Label1": "Mind reading",
+        "Label2": "Mental Filter"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e359",
+        "Thought": "A few days ago, I really felt like getting some ice cream and I saw an ice cream shop down the road. Walking towards it, I was arguing with myself to do or not to do it. Would it be weird? Getting ice cream on my own? Who does that? I almost walked by, but something inside myself told me 'who cares, even if they think it's weird, you don't know these people and probably will never see them again'. I turned of my thoughts, got in line... And got some ice cream! It was great.",
+        "Label1": "None",
+        "Label2": "None"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e35a",
+        "Thought": "I'm tired of getting lead on by people who are happy to chat aimlessly for days or weeks through text or on dating apps but disappear once you ask to meet in person. I'm tired of people waffling about and getting your hopes up only to fade away and make you feel like a crazy loser. I'm tired of people making you feel like a pervert because you dared be interested in someone who exists outside your phone screen. I'm tired of things going well and then suddenly poof it's gone because they found someone better in some superficial way. I'm tired of being told I'm  too good for them  and  so many people would be so happy to be with me  I'm tired of people not being honest, not communicating, protecting themselves from discomfort and confrontation at levels bordering on sociopathy. I'm done. I'm not trying anymore. Me and my dog are gonna live the good life and no one else is invited. ",
+        "Label1": "Overgeneralization",
+        "Label2": "Fortune telling (also called catastrophizing)"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e35b",
+        "Thought": "I'm 26. Within the past 7 weeks I've lost my job, $48k in the stock market, my car got totaled, and had to move back in with my mom. Mom lives in a 2 bedroom apartment and I'm sleeping in my little sisters room while she's away at college, when she gets back I'll be on the couch. \n\nI've been applying for jobs for about a month and it's like no one wants to hire me, although I did put my pride aside and applied for a $16/hr retail job and already did the interview, but still waiting on even them to reach back out if I'm hired or not. \n\nMoms constantly nagging and it feels like I'm 16 again. I feel depressed, lonely, & unmotivated to do anything. There's only a couple friends left here in my hometown that haven't moved, they have been supportive as hell, yet I still feel disconnected. \n\nEaster was yesterday and the whole family seemed a bit on edge or uncomfortable when talking to me, like they were walking on eggshells almost. That really hit for me because we all normally get along and joke around during family events but I could just feel their judgement oozing. \n\nStraight up I've never felt like a such a bum pos in my life and it's like I'm starting to drown in a depression and i don't know what the fuck to do from here.",
+        "Label1": "Emotional reasoning",
+        "Label2": "Mind reading"
+    },
+    {
+        "_id": "67b89ef856ac4dd9c231e35c",
+        "Thought": "Train journey nearly got me tearing up",
+        "Label1": "None",
+        "Label2": "None"
+    },
+    {
+        "_id": "67b89ef956ac4dd9c231e35d",
+        "Thought": "I have hard time beign with people, except on my job. Anything else just feels so overwhelming, so i spend most of my freetime at home. Luckily i have my significant other but i still long for friends. This spring i had a long sick leave from work, due to feelings of depression and overburdened/strained from my job. I really tried to get on psychologist to seek help with untangling my past's traumas to get better understanding why i am what i am on present day, but the only thing they do is write me prescription for antidepressants. And that road i dont want to step on, because atleast right now work, running and my significant other prevents me to fall on total despair. Im pretty sure i have some sort of PD, but i dont know how the hell i am supposed to get the diagnose, or seek help other than pills. Apologies for messy post and bad English.",
+        "Label1": "Emotional reasoning",
+        "Label2": "Labeling"
+    }
+]
